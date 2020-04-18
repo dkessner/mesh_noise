@@ -1,5 +1,7 @@
 # mesh noise
 
+[Web demo](https://dkessner.github.io/mesh_noise/)
+
 This project demonstrates ofMesh (and ofNoise).
 
 It's based on Lewis Lepton's tutorial 67 on mesh noise.
